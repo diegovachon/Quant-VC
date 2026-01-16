@@ -1,4 +1,4 @@
-# Llama-VC-Analyst
+# Quant-VC
 This repository contains a full-stack ML pipeline for Venture Capitalist analysis. It features a Llama-3.2-3B SML fine-tuned via QLoRA on synthetic data. This model is run on Raspberry Pi 5 to generate structured investment memos. This project demonstrates how to create a private, low-latency "AI Analyst".
 
 Project Goal
